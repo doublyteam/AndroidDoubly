@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "504012702901",
+    "firebase_url": "https://doubly-fcacb.firebaseio.com",
+    "project_id": "doubly-fcacb",
+    "storage_bucket": "doubly-fcacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504012702901:android:73d15ee00641ed16",
+        "android_client_info": {
+          "package_name": "com.doublyapp.doubly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504012702901-s5j9qegm5ihgitj10323prj9e1jgt3s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSVRq5JdmCiuSx0dsaI6ciLemkS78h_gY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
